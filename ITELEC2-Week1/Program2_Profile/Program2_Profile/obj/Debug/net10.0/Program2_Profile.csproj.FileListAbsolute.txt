@@ -1,0 +1,15 @@
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\bin\Debug\net10.0\Program2_Profile.exe
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\bin\Debug\net10.0\Program2_Profile.deps.json
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\bin\Debug\net10.0\Program2_Profile.runtimeconfig.json
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\bin\Debug\net10.0\Program2_Profile.dll
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\bin\Debug\net10.0\Program2_Profile.pdb
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2_Profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2_Profile.AssemblyInfoInputs.cache
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2_Profile.AssemblyInfo.cs
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2_Profile.csproj.CoreCompileInputs.cache
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2_Profile.dll
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\refint\Program2_Profile.dll
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2_Profile.pdb
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2_Profile.genruntimeconfig.cache
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\ref\Program2_Profile.dll
+C:\Users\cryst\source\repos\Program2_Profile\Program2_Profile\obj\Debug\net10.0\Program2.72E54C50.Up2Date

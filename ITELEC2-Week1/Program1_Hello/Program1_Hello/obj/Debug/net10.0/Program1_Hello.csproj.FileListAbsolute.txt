@@ -1,0 +1,15 @@
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\bin\Debug\net10.0\Program1_Hello.exe
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\bin\Debug\net10.0\Program1_Hello.deps.json
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\bin\Debug\net10.0\Program1_Hello.runtimeconfig.json
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\bin\Debug\net10.0\Program1_Hello.dll
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\bin\Debug\net10.0\Program1_Hello.pdb
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1_Hello.AssemblyInfoInputs.cache
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1_Hello.AssemblyInfo.cs
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1_Hello.csproj.CoreCompileInputs.cache
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1_Hello.dll
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\refint\Program1_Hello.dll
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1_Hello.pdb
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1_Hello.genruntimeconfig.cache
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\ref\Program1_Hello.dll
+C:\Users\cryst\source\repos\Program1_Hello\Program1_Hello\obj\Debug\net10.0\Program1.F8410249.Up2Date

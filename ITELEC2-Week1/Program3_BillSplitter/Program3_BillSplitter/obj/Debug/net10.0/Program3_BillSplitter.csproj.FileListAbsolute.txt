@@ -1,0 +1,15 @@
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\bin\Debug\net10.0\Program3_BillSplitter.exe
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\bin\Debug\net10.0\Program3_BillSplitter.deps.json
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\bin\Debug\net10.0\Program3_BillSplitter.runtimeconfig.json
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\bin\Debug\net10.0\Program3_BillSplitter.dll
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\bin\Debug\net10.0\Program3_BillSplitter.pdb
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3_BillSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3_BillSplitter.AssemblyInfoInputs.cache
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3_BillSplitter.AssemblyInfo.cs
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3_BillSplitter.csproj.CoreCompileInputs.cache
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3_BillSplitter.dll
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\refint\Program3_BillSplitter.dll
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3_BillSplitter.pdb
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3_BillSplitter.genruntimeconfig.cache
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\ref\Program3_BillSplitter.dll
+C:\Users\cryst\source\repos\Program3_BillSplitter\Program3_BillSplitter\obj\Debug\net10.0\Program3.B92BCE27.Up2Date
